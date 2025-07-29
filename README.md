@@ -4,7 +4,7 @@
 
 
 
-# 📚 Python Programs For Students – Educational Repository
+# 📚 Python Programs – Educational Repository
 
 Welcome to this open-source repository, a **curated collection of beginner to intermediate Python programs** designed for **students, educators, and self-learners**. Each program includes a clearly stated objective and focuses on strengthening Python fundamentals.
 
