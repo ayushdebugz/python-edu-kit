@@ -34,9 +34,8 @@ All content is publicly accessible for learning, practice, and enhancement.
 | 8 | `Matrix Calculation.py` | Program To Calculate Matrices Multiplications |
 | 9 | `NumberTest.py` | Program To Determine Minimum, Average & Maximum NUM |
 | 10 | `RadiuS Of CirclE.py` | Program To Calculate Area Of Circle |
-| 11 | `Rock-Paper-Scissors-Game.py` | --|Programme By Ayush Jha (XII-A)| ROCK PAPER SCISSORS GAME --Game Characters :Creation/Value Declrn. |
+| 11 | `Rock-Paper-Scissors-Game.py` | --| ROCK PAPER SCISSORS GAME 
 | 12 | `SortingByID.py` | PrograM Sorting Elements By 'ID' Using Tuples |
-| 13 | `State Water.py` | -*- coding: utf-8 -*- |
 | 14 | `WateRStateS.py` | Program To Predict Water States |
 | 15 | `Whole Numbers-To-Roman-Numbers.py` | Program To Convert Whole Number [0-n] To Roman Values |
 
